@@ -1,0 +1,25 @@
+# Virtual environment
+.venv/
+
+# macOS
+.DS_Store
+
+# Dataset (troppo pesante per git)
+online_retail/
+
+# Documenti tesi e metodologia
+Tesi/
+Metodologia/
+
+# Model artifacts
+*.pkl
+
+# Plot generati
+plot_*.png
+
+# Jupyter checkpoints
+.ipynb_checkpoints/
+
+# Python
+__pycache__/
+*.pyc
